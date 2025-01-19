@@ -1,5 +1,4 @@
 Procedure for this Task:-
-
 1. `echo "First Line" >> file.txt`  
 2. `git add file.txt`  
 3. `git commit -m "Add first line to file.txt"`  
@@ -14,3 +13,7 @@ Procedure for this Task:-
 12. `git add file.txt`  
 13. `git commit -m "Add third line to file.txt"`  
 14. `git push -u origin branch-3`  
+15. `git checkout main`  
+16. `git merge branch-2`  
+17. `git merge branch-3`  
+18. `git push origin main`  
